@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Hey there, I'm Kartik Ghuge  
+🎓 BCA Student  
+💻 MERN Stack Web Developer in training  
+🚀 Passionate about creating clean, modern, and user-focused web applications  
+🌱 Continuously improving my skills through learning and real projects  
 
-<!--
-**kartik9170/kartik9170** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+ 🧰 Tech Stack
+- HTML • CSS • JavaScript
+- React • Node.js •Python •MYSQL
+- Git • GitHub 
 
-Here are some ideas to get you started:
+### 🏆 Achievements
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏁 Participated in Smart India Hackathon 2025
+- 👨‍💻 Frontend Intern at The Baap company  
+- 🏅 Completed Training at  –The Baap company  
+📚 HackerRank Certified: Python (Basic), MYSQL (Intermediate),  and JobReady Skills
+
+
+
+### 📬 Let's Connect
+
+📎 LinkedIn  https://www.linkedin.com/in/kartik-ghuge-b86906282/
+🌐 Portfolio http://127.0.0.1:5500/kartik9170.github.io-main/index.html
+📧 Email: kartikghuge24@gmail.com
+
+
